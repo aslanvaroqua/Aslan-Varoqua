@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"  xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+      layout:decorator="master">
+<head>
+        <title>Aslan Varoqua</title>
+</head>
+<body>
+	<!-- Any content you put in the div fragment below will appear on the page-->
+	<div class="container" layout:fragment="content">
+	<div class="row">
+		<div class="span8">
+			<h3>
+			Hello! Welcome to my homepage... Made with scala, springmvc, thymeleaf, and bootstrap. I am under contruction.
+                <br><br>
+            Thanks!
+                <br>
+            Aslan Varoqua
+
+
+            <img src="https://lh4.googleusercontent.com/-bqbY7r9_g_0/VpcJ9VszXFI/AAAAAAAAALc/YFSNRoA8k10/w936-h624-no/Aslan%2BVaroqua.jpg" alt="Aslan Varoqua"/>
+            </h3>
+
+            <p>
+                <a th:href="@{/secure/home}">Here</a> for admin
+
+            </p>
+		</div>
+	</div>
+	</div>
+</body>
+</html>

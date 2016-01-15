@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-tx:3.2.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/3.2.0.BUILD-SNAPSHOT/spring-tx-3.2.0.BUILD-20121213.004239-477.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/3.2.0.BUILD-SNAPSHOT/spring-tx-3.2.0.BUILD-20121213.004239-477-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/3.2.0.BUILD-SNAPSHOT/spring-tx-3.2.0.BUILD-20121213.004239-477-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
