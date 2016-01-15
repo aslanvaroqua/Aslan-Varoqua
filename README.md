@@ -1,16 +1,12 @@
-scala-springmvc-thymeleaf-bootstrap-template
+My Homepage Application
 ============================================
 
 A starter web application project combining Scala, Spring, Spring MVC, Thymeleaf 2.0, Spring Security and twitter bootstrap.
 
-What is this?
+What does it use?
 =============
-Spring MVC is a powerful web development framework, however it needs to integrated with bunch of other libraries to make it really powerful! However 
-putting together everything needed to get things off the ground is still pretty time consuming and challenging and one of the reasons why
-we are seeing one-stop frameworks like Play! become popular. 
 
-In this sample project, I also demonstrate using Scala with Spring MVC instead of Java. Additionally, I integrate with
-Spring Security and templating with Thymeleaf.
+Scala with Spring MVC instead of Java. Thymleaf for templating. 
 
 Stack
 =====
@@ -35,11 +31,9 @@ Credits
 =======
 Based on [thymeleaf-spring-maven-archetype](https://github.com/maggandalf/thymeleaf-spring-maven-archetype)
 
-Contact
-=======
-Twitter: [@zoheb](http://www.twitter.com/zoheb)
+Zoheb for the starter project:
+https://github.com/zoheb/scala-springmvc-thymeleaf-bootstrap-template
 
-Web: [zoheb.com](http://www.zoheb.com)
+Aslan Varoqua
 
-[![endorse](http://api.coderwall.com/zohebsait/endorsecount.png)](http://coderwall.com/zohebsait)
 
